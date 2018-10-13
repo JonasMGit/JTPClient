@@ -1,0 +1,8 @@
+C:\Users\jonas\source\repos\JTPClient\API\bin\Debug\netcoreapp2.1\API.deps.json
+C:\Users\jonas\source\repos\JTPClient\API\bin\Debug\netcoreapp2.1\API.runtimeconfig.json
+C:\Users\jonas\source\repos\JTPClient\API\bin\Debug\netcoreapp2.1\API.runtimeconfig.dev.json
+C:\Users\jonas\source\repos\JTPClient\API\bin\Debug\netcoreapp2.1\API.dll
+C:\Users\jonas\source\repos\JTPClient\API\obj\Debug\netcoreapp2.1\API.csprojAssemblyReference.cache
+C:\Users\jonas\source\repos\JTPClient\API\obj\Debug\netcoreapp2.1\API.csproj.CoreCompileInputs.cache
+C:\Users\jonas\source\repos\JTPClient\API\obj\Debug\netcoreapp2.1\API.AssemblyInfoInputs.cache
+C:\Users\jonas\source\repos\JTPClient\API\obj\Debug\netcoreapp2.1\API.AssemblyInfo.cs

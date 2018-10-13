@@ -1,0 +1,11 @@
+C:\Users\jonas\source\repos\JTPClient\JTPServer\bin\Debug\netcoreapp2.1\JTPServer.deps.json
+C:\Users\jonas\source\repos\JTPClient\JTPServer\bin\Debug\netcoreapp2.1\JTPServer.runtimeconfig.json
+C:\Users\jonas\source\repos\JTPClient\JTPServer\bin\Debug\netcoreapp2.1\JTPServer.runtimeconfig.dev.json
+C:\Users\jonas\source\repos\JTPClient\JTPServer\bin\Debug\netcoreapp2.1\JTPServer.dll
+C:\Users\jonas\source\repos\JTPClient\JTPServer\bin\Debug\netcoreapp2.1\JTPServer.pdb
+C:\Users\jonas\source\repos\JTPClient\JTPServer\obj\Debug\netcoreapp2.1\JTPServer.csprojAssemblyReference.cache
+C:\Users\jonas\source\repos\JTPClient\JTPServer\obj\Debug\netcoreapp2.1\JTPServer.csproj.CoreCompileInputs.cache
+C:\Users\jonas\source\repos\JTPClient\JTPServer\obj\Debug\netcoreapp2.1\JTPServer.AssemblyInfoInputs.cache
+C:\Users\jonas\source\repos\JTPClient\JTPServer\obj\Debug\netcoreapp2.1\JTPServer.AssemblyInfo.cs
+C:\Users\jonas\source\repos\JTPClient\JTPServer\obj\Debug\netcoreapp2.1\JTPServer.dll
+C:\Users\jonas\source\repos\JTPClient\JTPServer\obj\Debug\netcoreapp2.1\JTPServer.pdb

@@ -1,0 +1,11 @@
+C:\Users\jonas\source\repos\JTPClient\Assignment3\bin\Debug\netcoreapp2.1\JTPClient.deps.json
+C:\Users\jonas\source\repos\JTPClient\Assignment3\bin\Debug\netcoreapp2.1\JTPClient.runtimeconfig.json
+C:\Users\jonas\source\repos\JTPClient\Assignment3\bin\Debug\netcoreapp2.1\JTPClient.runtimeconfig.dev.json
+C:\Users\jonas\source\repos\JTPClient\Assignment3\bin\Debug\netcoreapp2.1\JTPClient.dll
+C:\Users\jonas\source\repos\JTPClient\Assignment3\bin\Debug\netcoreapp2.1\JTPClient.pdb
+C:\Users\jonas\source\repos\JTPClient\Assignment3\obj\Debug\netcoreapp2.1\JTPClient.csprojAssemblyReference.cache
+C:\Users\jonas\source\repos\JTPClient\Assignment3\obj\Debug\netcoreapp2.1\JTPClient.csproj.CoreCompileInputs.cache
+C:\Users\jonas\source\repos\JTPClient\Assignment3\obj\Debug\netcoreapp2.1\JTPClient.AssemblyInfoInputs.cache
+C:\Users\jonas\source\repos\JTPClient\Assignment3\obj\Debug\netcoreapp2.1\JTPClient.AssemblyInfo.cs
+C:\Users\jonas\source\repos\JTPClient\Assignment3\obj\Debug\netcoreapp2.1\JTPClient.dll
+C:\Users\jonas\source\repos\JTPClient\Assignment3\obj\Debug\netcoreapp2.1\JTPClient.pdb
